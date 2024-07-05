@@ -1,6 +1,3 @@
-Aquí tienes el contenido del README en formato Markdown para tu proyecto de sistema de clasificación de reseñas de Amazon, estructurado para incluir detalles relevantes sobre el conjunto de datos, la tecnología utilizada, y cómo utilizar el proyecto.
-
-```markdown
 # Sistema de Clasificación de Reseñas de Amazon
 
 ## Descripción General
