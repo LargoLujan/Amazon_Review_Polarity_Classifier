@@ -15,6 +15,22 @@ El conjunto de datos consiste en 34,686,770 reseñas de Amazon de 6,643,669 usua
 - **Fuente:** [Amazon Reviews Polarity Dataset en Kaggle](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews)
 - **Contenido:** Incluye 1,800,000 muestras de entrenamiento y 200,000 muestras de prueba en cada polaridad de sentimiento.
 
+## Descarga del Conjunto de Datos
+Debido al tamaño considerable del conjunto de datos de reseñas de Amazon, no está incluido directamente en el repositorio. Para utilizar este proyecto, necesitarás descargar el conjunto de datos manualmente.
+
+### Instrucciones para la Descarga
+1. Visita la página del [Amazon Reviews Polarity Dataset en Kaggle](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews).
+2. Crea una cuenta en Kaggle si aún no tienes una.
+3. Una vez en la página del dataset, haz clic en "Download" (Descargar) para obtener el archivo comprimido del dataset.
+4. Extrae el archivo ZIP en una ubicación adecuada que será utilizada para ejecutar los notebooks de Jupyter.
+
+### Preparación del Entorno
+Tras descargar y extraer el dataset, asegúrate de que los archivos `train.csv` y `test.csv` están accesibles desde el directorio donde ejecutarás tus notebooks de Jupyter. Esto permitirá que el código cargue y procese los datos sin problemas adicionales de configuración.
+
+## Nota Importante
+Por favor, verifica la integridad de los archivos descargados antes de usarlos, especialmente si encuentras problemas al cargar los datos en los notebooks. Esto te ayudará a evitar errores comunes relacionados con archivos corruptos o incompletos.
+
+
 ## Prerrequisitos
 - Jupyter Notebook o Jupyter Lab
 - Python 3.8 o superior
